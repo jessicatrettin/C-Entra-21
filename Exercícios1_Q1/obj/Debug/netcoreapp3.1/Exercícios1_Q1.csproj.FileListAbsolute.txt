@@ -1,0 +1,13 @@
+C:\Users\Entra21\source\repos\Entra21_JéssicaTrettin\Exercícios1_Q1\obj\Debug\netcoreapp3.1\Exercícios1_Q1.csproj.AssemblyReference.cache
+C:\Users\Entra21\source\repos\Entra21_JéssicaTrettin\Exercícios1_Q1\obj\Debug\netcoreapp3.1\Exercícios1_Q1.AssemblyInfoInputs.cache
+C:\Users\Entra21\source\repos\Entra21_JéssicaTrettin\Exercícios1_Q1\obj\Debug\netcoreapp3.1\Exercícios1_Q1.AssemblyInfo.cs
+C:\Users\Entra21\source\repos\Entra21_JéssicaTrettin\Exercícios1_Q1\obj\Debug\netcoreapp3.1\Exercícios1_Q1.csproj.CoreCompileInputs.cache
+C:\Users\Entra21\source\repos\Entra21_JéssicaTrettin\Exercícios1_Q1\bin\Debug\netcoreapp3.1\Exercícios1_Q1.exe
+C:\Users\Entra21\source\repos\Entra21_JéssicaTrettin\Exercícios1_Q1\bin\Debug\netcoreapp3.1\Exercícios1_Q1.deps.json
+C:\Users\Entra21\source\repos\Entra21_JéssicaTrettin\Exercícios1_Q1\bin\Debug\netcoreapp3.1\Exercícios1_Q1.runtimeconfig.json
+C:\Users\Entra21\source\repos\Entra21_JéssicaTrettin\Exercícios1_Q1\bin\Debug\netcoreapp3.1\Exercícios1_Q1.runtimeconfig.dev.json
+C:\Users\Entra21\source\repos\Entra21_JéssicaTrettin\Exercícios1_Q1\bin\Debug\netcoreapp3.1\Exercícios1_Q1.dll
+C:\Users\Entra21\source\repos\Entra21_JéssicaTrettin\Exercícios1_Q1\bin\Debug\netcoreapp3.1\Exercícios1_Q1.pdb
+C:\Users\Entra21\source\repos\Entra21_JéssicaTrettin\Exercícios1_Q1\obj\Debug\netcoreapp3.1\Exercícios1_Q1.dll
+C:\Users\Entra21\source\repos\Entra21_JéssicaTrettin\Exercícios1_Q1\obj\Debug\netcoreapp3.1\Exercícios1_Q1.pdb
+C:\Users\Entra21\source\repos\Entra21_JéssicaTrettin\Exercícios1_Q1\obj\Debug\netcoreapp3.1\Exercícios1_Q1.genruntimeconfig.cache

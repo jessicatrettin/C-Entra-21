@@ -1,0 +1,13 @@
+C:\Users\Entra21\source\repos\Entra21_JéssicaTrettin\PrimeiroArquivo\bin\Debug\netcoreapp3.1\PrimeiroArquivo.exe
+C:\Users\Entra21\source\repos\Entra21_JéssicaTrettin\PrimeiroArquivo\bin\Debug\netcoreapp3.1\PrimeiroArquivo.deps.json
+C:\Users\Entra21\source\repos\Entra21_JéssicaTrettin\PrimeiroArquivo\bin\Debug\netcoreapp3.1\PrimeiroArquivo.runtimeconfig.json
+C:\Users\Entra21\source\repos\Entra21_JéssicaTrettin\PrimeiroArquivo\bin\Debug\netcoreapp3.1\PrimeiroArquivo.runtimeconfig.dev.json
+C:\Users\Entra21\source\repos\Entra21_JéssicaTrettin\PrimeiroArquivo\bin\Debug\netcoreapp3.1\PrimeiroArquivo.dll
+C:\Users\Entra21\source\repos\Entra21_JéssicaTrettin\PrimeiroArquivo\bin\Debug\netcoreapp3.1\PrimeiroArquivo.pdb
+C:\Users\Entra21\source\repos\Entra21_JéssicaTrettin\PrimeiroArquivo\obj\Debug\netcoreapp3.1\PrimeiroArquivo.csproj.AssemblyReference.cache
+C:\Users\Entra21\source\repos\Entra21_JéssicaTrettin\PrimeiroArquivo\obj\Debug\netcoreapp3.1\PrimeiroArquivo.AssemblyInfoInputs.cache
+C:\Users\Entra21\source\repos\Entra21_JéssicaTrettin\PrimeiroArquivo\obj\Debug\netcoreapp3.1\PrimeiroArquivo.AssemblyInfo.cs
+C:\Users\Entra21\source\repos\Entra21_JéssicaTrettin\PrimeiroArquivo\obj\Debug\netcoreapp3.1\PrimeiroArquivo.csproj.CoreCompileInputs.cache
+C:\Users\Entra21\source\repos\Entra21_JéssicaTrettin\PrimeiroArquivo\obj\Debug\netcoreapp3.1\PrimeiroArquivo.dll
+C:\Users\Entra21\source\repos\Entra21_JéssicaTrettin\PrimeiroArquivo\obj\Debug\netcoreapp3.1\PrimeiroArquivo.pdb
+C:\Users\Entra21\source\repos\Entra21_JéssicaTrettin\PrimeiroArquivo\obj\Debug\netcoreapp3.1\PrimeiroArquivo.genruntimeconfig.cache

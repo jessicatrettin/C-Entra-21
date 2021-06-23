@@ -1,0 +1,4 @@
+C:\Users\Entra21\source\repos\Entra21_JéssicaTrettin\Exercícios2_Q7\obj\Debug\netcoreapp3.1\Exercícios3_Q1.csproj.AssemblyReference.cache
+C:\Users\Entra21\source\repos\Entra21_JéssicaTrettin\Exercícios2_Q7\obj\Debug\netcoreapp3.1\Exercícios3_Q1.AssemblyInfoInputs.cache
+C:\Users\Entra21\source\repos\Entra21_JéssicaTrettin\Exercícios2_Q7\obj\Debug\netcoreapp3.1\Exercícios3_Q1.AssemblyInfo.cs
+C:\Users\Entra21\source\repos\Entra21_JéssicaTrettin\Exercícios2_Q7\obj\Debug\netcoreapp3.1\Exercícios3_Q1.csproj.CoreCompileInputs.cache

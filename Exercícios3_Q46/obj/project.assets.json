@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Entra21\\source\\repos\\Entra21_JéssicaTrettin\\Exercícios3_Q46\\Exercícios3_Q46.csproj",
+      "projectUniqueName": "C:\\Users\\Entra21\\Source\\Repos\\C-Entra-21\\Exercícios3_Q46\\Exercícios3_Q46.csproj",
       "projectName": "Exercícios3_Q46",
-      "projectPath": "C:\\Users\\Entra21\\source\\repos\\Entra21_JéssicaTrettin\\Exercícios3_Q46\\Exercícios3_Q46.csproj",
+      "projectPath": "C:\\Users\\Entra21\\Source\\Repos\\C-Entra-21\\Exercícios3_Q46\\Exercícios3_Q46.csproj",
       "packagesPath": "C:\\Users\\Entra21\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Entra21\\source\\repos\\Entra21_JéssicaTrettin\\Exercícios3_Q46\\obj\\",
+      "outputPath": "C:\\Users\\Entra21\\Source\\Repos\\C-Entra-21\\Exercícios3_Q46\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Entra21\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Entra21\\source\\repos\\Entra21_JéssicaTrettin\\Exercícios3_Q45\\Exercícios3_Q45.csproj": {}
+    "C:\\Users\\Entra21\\Source\\Repos\\C-Entra-21\\Exercícios3_Q45\\Exercícios3_Q45.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Entra21\\source\\repos\\Entra21_JéssicaTrettin\\Exercícios3_Q45\\Exercícios3_Q45.csproj": {
+    "C:\\Users\\Entra21\\Source\\Repos\\C-Entra-21\\Exercícios3_Q45\\Exercícios3_Q45.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Entra21\\source\\repos\\Entra21_JéssicaTrettin\\Exercícios3_Q45\\Exercícios3_Q45.csproj",
+        "projectUniqueName": "C:\\Users\\Entra21\\Source\\Repos\\C-Entra-21\\Exercícios3_Q45\\Exercícios3_Q45.csproj",
         "projectName": "Exercícios3_Q45",
-        "projectPath": "C:\\Users\\Entra21\\source\\repos\\Entra21_JéssicaTrettin\\Exercícios3_Q45\\Exercícios3_Q45.csproj",
+        "projectPath": "C:\\Users\\Entra21\\Source\\Repos\\C-Entra-21\\Exercícios3_Q45\\Exercícios3_Q45.csproj",
         "packagesPath": "C:\\Users\\Entra21\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Entra21\\source\\repos\\Entra21_JéssicaTrettin\\Exercícios3_Q45\\obj\\",
+        "outputPath": "C:\\Users\\Entra21\\Source\\Repos\\C-Entra-21\\Exercícios3_Q45\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Entra21\\AppData\\Roaming\\NuGet\\NuGet.Config",

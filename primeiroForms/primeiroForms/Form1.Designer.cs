@@ -44,7 +44,7 @@ namespace primeiroForms
             this.button1.BackColor = System.Drawing.Color.DeepPink;
             this.button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(273, 216);
+            this.button1.Location = new System.Drawing.Point(40, 111);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(53, 29);
             this.button1.TabIndex = 0;
@@ -54,8 +54,8 @@ namespace primeiroForms
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(273, 167);
-            this.textBox1.Name = "txtNumero1";
+            this.textBox1.Location = new System.Drawing.Point(40, 62);
+            this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(112, 27);
             this.textBox1.TabIndex = 1;
             // 
@@ -63,7 +63,7 @@ namespace primeiroForms
             // 
             this.button2.BackColor = System.Drawing.Color.DeepPink;
             this.button2.ForeColor = System.Drawing.Color.White;
-            this.button2.Location = new System.Drawing.Point(391, 216);
+            this.button2.Location = new System.Drawing.Point(158, 111);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(53, 29);
             this.button2.TabIndex = 2;
@@ -71,25 +71,25 @@ namespace primeiroForms
             this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.btnSubtracao_Click);
             // 
-            // button3
+            // button4
             // 
             this.button4.BackColor = System.Drawing.Color.DeepPink;
             this.button4.ForeColor = System.Drawing.Color.White;
-            this.button4.Location = new System.Drawing.Point(332, 216);
-            this.button4.Name = "button3";
+            this.button4.Location = new System.Drawing.Point(99, 111);
+            this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(53, 29);
             this.button4.TabIndex = 3;
             this.button4.Text = "-";
             this.button4.UseVisualStyleBackColor = false;
             this.button4.Click += new System.EventHandler(this.btnMultiplicacao_Click);
             // 
-            // button4
+            // button5
             // 
             this.button5.BackColor = System.Drawing.Color.DeepPink;
             this.button5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.button5.ForeColor = System.Drawing.Color.White;
-            this.button5.Location = new System.Drawing.Point(450, 216);
-            this.button5.Name = "button4";
+            this.button5.Location = new System.Drawing.Point(217, 111);
+            this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(53, 29);
             this.button5.TabIndex = 4;
             this.button5.Text = "/";
@@ -98,16 +98,17 @@ namespace primeiroForms
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(391, 167);
+            this.textBox2.Location = new System.Drawing.Point(158, 62);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(112, 27);
             this.textBox2.TabIndex = 6;
+            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.ForeColor = System.Drawing.Color.Black;
-            this.label1.Location = new System.Drawing.Point(273, 144);
+            this.label1.Location = new System.Drawing.Point(40, 39);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(75, 20);
             this.label1.TabIndex = 7;
@@ -118,7 +119,7 @@ namespace primeiroForms
             // 
             this.label2.AutoSize = true;
             this.label2.ForeColor = System.Drawing.Color.Black;
-            this.label2.Location = new System.Drawing.Point(428, 144);
+            this.label2.Location = new System.Drawing.Point(195, 39);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(75, 20);
             this.label2.TabIndex = 8;
@@ -130,7 +131,7 @@ namespace primeiroForms
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Pink;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(353, 225);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox2);

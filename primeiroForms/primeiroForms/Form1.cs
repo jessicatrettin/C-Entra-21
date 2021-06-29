@@ -58,5 +58,10 @@ namespace primeiroForms
             n2 = int.Parse(textBox2.Text);
             MessageBox.Show($"{n1 / n2}");
         }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

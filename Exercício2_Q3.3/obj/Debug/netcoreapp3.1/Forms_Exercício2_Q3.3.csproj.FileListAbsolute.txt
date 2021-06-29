@@ -1,0 +1,15 @@
+C:\Users\Entra21\source\repos\C-Entra-21\Exercício2_Q3.3\bin\Debug\netcoreapp3.1\Forms_Exercício2_Q3.3.exe
+C:\Users\Entra21\source\repos\C-Entra-21\Exercício2_Q3.3\bin\Debug\netcoreapp3.1\Forms_Exercício2_Q3.3.deps.json
+C:\Users\Entra21\source\repos\C-Entra-21\Exercício2_Q3.3\bin\Debug\netcoreapp3.1\Forms_Exercício2_Q3.3.runtimeconfig.json
+C:\Users\Entra21\source\repos\C-Entra-21\Exercício2_Q3.3\bin\Debug\netcoreapp3.1\Forms_Exercício2_Q3.3.runtimeconfig.dev.json
+C:\Users\Entra21\source\repos\C-Entra-21\Exercício2_Q3.3\bin\Debug\netcoreapp3.1\Forms_Exercício2_Q3.3.dll
+C:\Users\Entra21\source\repos\C-Entra-21\Exercício2_Q3.3\bin\Debug\netcoreapp3.1\Forms_Exercício2_Q3.3.pdb
+C:\Users\Entra21\source\repos\C-Entra-21\Exercício2_Q3.3\obj\Debug\netcoreapp3.1\Forms_Exercício2_Q3.3.csproj.AssemblyReference.cache
+C:\Users\Entra21\source\repos\C-Entra-21\Exercício2_Q3.3\obj\Debug\netcoreapp3.1\Exercício2_Q3._3.Form1.resources
+C:\Users\Entra21\source\repos\C-Entra-21\Exercício2_Q3.3\obj\Debug\netcoreapp3.1\Forms_Exercício2_Q3.3.csproj.GenerateResource.cache
+C:\Users\Entra21\source\repos\C-Entra-21\Exercício2_Q3.3\obj\Debug\netcoreapp3.1\Forms_Exercício2_Q3.3.AssemblyInfoInputs.cache
+C:\Users\Entra21\source\repos\C-Entra-21\Exercício2_Q3.3\obj\Debug\netcoreapp3.1\Forms_Exercício2_Q3.3.AssemblyInfo.cs
+C:\Users\Entra21\source\repos\C-Entra-21\Exercício2_Q3.3\obj\Debug\netcoreapp3.1\Forms_Exercício2_Q3.3.csproj.CoreCompileInputs.cache
+C:\Users\Entra21\source\repos\C-Entra-21\Exercício2_Q3.3\obj\Debug\netcoreapp3.1\Forms_Exercício2_Q3.3.dll
+C:\Users\Entra21\source\repos\C-Entra-21\Exercício2_Q3.3\obj\Debug\netcoreapp3.1\Forms_Exercício2_Q3.3.pdb
+C:\Users\Entra21\source\repos\C-Entra-21\Exercício2_Q3.3\obj\Debug\netcoreapp3.1\Forms_Exercício2_Q3.3.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Entra21\\Source\\Repos\\C-Entra-21\\Exercícios3_Q1\\Exercícios3_Q26.csproj": {}
+    "C:\\Users\\Entra21\\source\\repos\\C-Entra-21\\Exercícios3_Q1\\Exercícios3_Q26.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Entra21\\Source\\Repos\\C-Entra-21\\Exercícios3_Q1\\Exercícios3_Q26.csproj": {
+    "C:\\Users\\Entra21\\source\\repos\\C-Entra-21\\Exercícios3_Q1\\Exercícios3_Q26.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Entra21\\Source\\Repos\\C-Entra-21\\Exercícios3_Q1\\Exercícios3_Q26.csproj",
+        "projectUniqueName": "C:\\Users\\Entra21\\source\\repos\\C-Entra-21\\Exercícios3_Q1\\Exercícios3_Q26.csproj",
         "projectName": "Exercícios3_Q26",
-        "projectPath": "C:\\Users\\Entra21\\Source\\Repos\\C-Entra-21\\Exercícios3_Q1\\Exercícios3_Q26.csproj",
+        "projectPath": "C:\\Users\\Entra21\\source\\repos\\C-Entra-21\\Exercícios3_Q1\\Exercícios3_Q26.csproj",
         "packagesPath": "C:\\Users\\Entra21\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Entra21\\Source\\Repos\\C-Entra-21\\Exercícios3_Q1\\obj\\",
+        "outputPath": "C:\\Users\\Entra21\\source\\repos\\C-Entra-21\\Exercícios3_Q1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Entra21\\AppData\\Roaming\\NuGet\\NuGet.Config",

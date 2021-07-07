@@ -34,5 +34,10 @@ namespace Exercício2_Q3._3
         {
 
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

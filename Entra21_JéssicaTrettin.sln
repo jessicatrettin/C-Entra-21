@@ -61,7 +61,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercícios3_Q48", "Exercí
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercícios3_Q49", "Exercícios3_Q49\Exercícios3_Q49.csproj", "{E6C8C844-C399-4C60-AB4F-7A20C02909DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forms_Exercício2_Q3.3", "Exercício2_Q3.3\Forms_Exercício2_Q3.3.csproj", "{1DDF2B9F-3402-416D-A5BE-8E7484916BF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Forms_Exercício2_Q3.3", "Exercício2_Q3.3\Forms_Exercício2_Q3.3.csproj", "{1DDF2B9F-3402-416D-A5BE-8E7484916BF7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContaOO", "ContaOO\ContaOO.csproj", "{401EEF98-949B-4ACF-BF89-1EA7B8FD6F3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Academia", "Academia\Academia.csproj", "{49E1806C-D647-4546-A532-ED388CB4D8FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -189,6 +193,14 @@ Global
 		{1DDF2B9F-3402-416D-A5BE-8E7484916BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DDF2B9F-3402-416D-A5BE-8E7484916BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DDF2B9F-3402-416D-A5BE-8E7484916BF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{401EEF98-949B-4ACF-BF89-1EA7B8FD6F3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{401EEF98-949B-4ACF-BF89-1EA7B8FD6F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{401EEF98-949B-4ACF-BF89-1EA7B8FD6F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{401EEF98-949B-4ACF-BF89-1EA7B8FD6F3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49E1806C-D647-4546-A532-ED388CB4D8FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49E1806C-D647-4546-A532-ED388CB4D8FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49E1806C-D647-4546-A532-ED388CB4D8FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49E1806C-D647-4546-A532-ED388CB4D8FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

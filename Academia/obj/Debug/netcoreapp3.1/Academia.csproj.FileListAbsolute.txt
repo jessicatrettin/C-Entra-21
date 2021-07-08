@@ -1,0 +1,15 @@
+C:\Users\Entra21\source\repos\C-Entra-21\Academia\obj\Debug\netcoreapp3.1\Academia.csproj.AssemblyReference.cache
+C:\Users\Entra21\source\repos\C-Entra-21\Academia\obj\Debug\netcoreapp3.1\Academia.Form1.resources
+C:\Users\Entra21\source\repos\C-Entra-21\Academia\obj\Debug\netcoreapp3.1\Academia.csproj.GenerateResource.cache
+C:\Users\Entra21\source\repos\C-Entra-21\Academia\obj\Debug\netcoreapp3.1\Academia.AssemblyInfoInputs.cache
+C:\Users\Entra21\source\repos\C-Entra-21\Academia\obj\Debug\netcoreapp3.1\Academia.AssemblyInfo.cs
+C:\Users\Entra21\source\repos\C-Entra-21\Academia\obj\Debug\netcoreapp3.1\Academia.csproj.CoreCompileInputs.cache
+C:\Users\Entra21\source\repos\C-Entra-21\Academia\bin\Debug\netcoreapp3.1\Academia.exe
+C:\Users\Entra21\source\repos\C-Entra-21\Academia\bin\Debug\netcoreapp3.1\Academia.deps.json
+C:\Users\Entra21\source\repos\C-Entra-21\Academia\bin\Debug\netcoreapp3.1\Academia.runtimeconfig.json
+C:\Users\Entra21\source\repos\C-Entra-21\Academia\bin\Debug\netcoreapp3.1\Academia.runtimeconfig.dev.json
+C:\Users\Entra21\source\repos\C-Entra-21\Academia\bin\Debug\netcoreapp3.1\Academia.dll
+C:\Users\Entra21\source\repos\C-Entra-21\Academia\bin\Debug\netcoreapp3.1\Academia.pdb
+C:\Users\Entra21\source\repos\C-Entra-21\Academia\obj\Debug\netcoreapp3.1\Academia.dll
+C:\Users\Entra21\source\repos\C-Entra-21\Academia\obj\Debug\netcoreapp3.1\Academia.pdb
+C:\Users\Entra21\source\repos\C-Entra-21\Academia\obj\Debug\netcoreapp3.1\Academia.genruntimeconfig.cache
